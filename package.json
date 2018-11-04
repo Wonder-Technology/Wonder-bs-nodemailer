@@ -3,13 +3,15 @@
   "version": "0.0.3",
   "description": "BuckleScript binding for nodemailer",
   "keywords": [
-    "BuckleScript",
-    "GraphQL"
+    "BuckleScript"
   ],
   "license": "MIT",
   "scripts": {
     "watch": "bsb -clean-world -make-world -w",
     "build": "bsb -clean-world -make-world"
+  },
+  "dependencies": {
+    "nodemailer": "^4.6.8"
   },
   "devDependencies": {
     "babel": "^6.23.0",
