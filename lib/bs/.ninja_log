@@ -1,0 +1,7 @@
+# ninja log v5
+1	14	1541321639	WonderBsNodemailer.cmi	36576c8717373462
+1	24	1541321639	src/Nodemailer.mlast	53f09dd217ca0c27
+24	26	1541321639	src/Nodemailer.mlast.d	24f0f4f13c5ec498
+0	10	1541321639	src/Nodemailer-WonderBsNodemailer.cmj	16bab0be9c313a60
+0	10	1541321639	/home/mickey/yanghao/Wonder-projects/Wonder-bs-nodemailer/lib/js/src/Nodemailer.js	16bab0be9c313a60
+0	10	1541321639	src/Nodemailer-WonderBsNodemailer.cmi	16bab0be9c313a60

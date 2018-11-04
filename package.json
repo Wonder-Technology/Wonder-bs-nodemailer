@@ -1,0 +1,20 @@
+{
+  "name": "wonder-bs-nodemailer",
+  "version": "0.0.3",
+  "description": "BuckleScript binding for nodemailer",
+  "keywords": [
+    "BuckleScript",
+    "GraphQL"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "watch": "bsb -clean-world -make-world -w",
+    "build": "bsb -clean-world -make-world"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "bs-platform": "^4.0.0"
+  }
+}
