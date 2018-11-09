@@ -1,6 +1,6 @@
 {
   "name": "wonder-bs-nodemailer",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "BuckleScript binding for nodemailer",
   "keywords": [
     "BuckleScript"

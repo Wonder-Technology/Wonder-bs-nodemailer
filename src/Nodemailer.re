@@ -7,9 +7,12 @@ type sendOptions = {
   subject: string,
   [@bs.optional]
   text: string,
+  [@bs.optional]
+  html: string,
 };
 
 type transporter = {
+  .
   sendMail: (sendOptions, (string, string) => unit) => unit,
 };
 
